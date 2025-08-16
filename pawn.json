@@ -1,5 +1,5 @@
 {
-    "user": "Zeex",
+    "user": "rizkyana-id",
     "repo": "samp-plugin-crashdetect",
     "include_path": "include",
     "resources": [
@@ -19,6 +19,6 @@
         }
     ],
     "runtime": {
-        "plugins": ["Zeex/samp-plugin-crashdetect"]
+        "plugins": ["rizkyana-id/samp-plugin-crashdetect"]
     }
 }
